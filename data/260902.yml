@@ -1,0 +1,58 @@
+about:
+  description: Harden your package manager configs against supply chain attacks.
+  license: MIT
+  homepage: http://depsguard.com
+  head: 27be488
+  archived: false
+  latestVersion: v0.1.40
+  collectedAt: 2026-09-02T05:10:02Z
+timeline:
+  created: 2026-04-01
+  lastCommit: 2026-07-07
+  lastRelease: 2026-06-30
+popularity:
+  star: 381
+  watcher: 1
+  fork: 17
+  release: 30
+  contributor: 10
+  pullRequest: 37
+  issue: 16
+language:
+  Rust: 371424
+  Shell: 5208
+  Ruby: 1831
+totalLine: 378463
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-04
+    release: 7
+    mergedPR: 15
+    openPR: 11
+    closedIssue: 1
+    openIssue: 7
+    commit: 46
+  last180d:
+    since: 2026-03-06
+    release: 30
+    mergedPR: 47
+    openPR: 11
+    closedIssue: 7
+    openIssue: 9
+    commit: 115
+  last360d:
+    since: 2025-09-07
+    release: 30
+    mergedPR: 47
+    openPR: 11
+    closedIssue: 7
+    openIssue: 9
+    commit: 115
