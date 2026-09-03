@@ -1,11 +1,13 @@
 about:
-  description: Harden your package manager configs against supply chain attacks.
+  description:
+  |
+    Harden your package manager configs against supply chain attacks.
   license: MIT
   homepage: http://depsguard.com
   head: 27be488
   archived: false
   latestVersion: v0.1.40
-  collectedAt: 2026-09-03T05:12:45Z
+  collectedAt: 2026-09-03T22:36:51Z
 timeline:
   created: 2026-04-01
   lastCommit: 2026-07-07
@@ -22,7 +24,7 @@ language:
   Rust: 371424
   Shell: 5208
   Ruby: 1831
-totalLine: 378463
+totalBytes: 378463
 recent:
   last30d:
     since: 2026-08-04
