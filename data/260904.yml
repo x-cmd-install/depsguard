@@ -7,7 +7,7 @@ about:
   head: 27be488
   archived: false
   latestVersion: v0.1.40
-  collectedAt: 2026-09-04T20:10:46Z
+  collectedAt: 2026-09-04T20:38:46Z
 timeline:
   created: 2026-04-01
   lastCommit: 2026-07-07
@@ -83,7 +83,7 @@ total:
   commit: 115
 ---
 path: /home/runner/.x-repo/github.com/arnica/depsguard
-collectedAt: 2026-09-04T20:10:48Z
+collectedAt: 2026-09-04T20:38:47Z
 loc:
   Rust:
     code: 8794
