@@ -5,7 +5,7 @@ about:
   head: 27be488
   archived: false
   latestVersion: "v0.1.40"
-  collectedAt: 2026-09-07T06:17:27Z
+  collectedAt: 2026-09-07T18:18:10Z
 timeline:
   created: 2026-04-01
   lastCommit: 2026-07-07
@@ -81,7 +81,7 @@ total:
   commit: 115
 ---
 path: /home/runner/.x-repo/github.com/arnica/depsguard
-collectedAt: 2026-09-07T06:17:30Z
+collectedAt: 2026-09-07T18:18:12Z
 loc:
   Rust:
     code: 8794
@@ -162,7 +162,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:17:31+00:00
+  collectedAt: 2026-09-07T18:18:13+00:00
   platform:
     darwin/arm64:
       name:  depsguard-macos-arm64.tar.gz
