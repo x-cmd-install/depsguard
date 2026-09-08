@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 204463,
       "digest": "sha256:c607458bfa4e4ebc3ac3eb1ebd34e9269c0eb5d485033befeda2c0a3c61476e8",
-      "download_count": 139,
+      "download_count": 141,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-x86_64-pc-windows-msvc.zip"
