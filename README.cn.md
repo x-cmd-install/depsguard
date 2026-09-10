@@ -1,52 +1,52 @@
 # depsguard
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Harden your package manager configs against supply chain attacks.
 
-![depsguard](https://repo.x-cmd.io/depsguard.svg)
+![depsguard](https://repo.x-cmd.io/depsguard.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install depsguard
 ```
 
-## Code insight
+## 代码规模
 
-Total: **13,597** lines of code across **43** files in the top 5 languages.
+合计: **13,597** 行代码（覆盖前 5 种语言、共 **43** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 8,794 | 520 | 977 | 24 |
 | Html | 2,939 | 59 | 132 | 11 |
 | Yaml | 524 | 0 | 145 | 2 |
 | Css | 510 | 16 | 85 | 2 |
 | Svg | 470 | 0 | 0 | 4 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/arnica/depsguard>
-- **Homepage**: <http://depsguard.com>
-- **License**: MIT
+- **上游仓库**: <https://github.com/arnica/depsguard>
+- **官网**: <http://depsguard.com>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.1.40` (2026-06-30)
-- **Last commit**: 2026-07-07
-- **Assets in release**: 28
+- **最新版本**: `v0.1.40` (2026-06-30)
+- **最近提交**: 2026-07-07
+- **Release 含资产**: 28 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 382 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 7
+- **Star**: 382 · **Fork**: 18 · **开放 issue**: 16 · **贡献者**: 7
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 30 · **Merged PRs**: 47 · **Open PRs**: 12 · **Closed issues**: 7 · **Open issues**: 9 · **Commits**: 115
+- **发布数**: 30 · **已合并 PR**: 47 · **开放 PR**: 12 · **已关闭 issue**: 7 · **开放 issue**: 9 · **提交数**: 115
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
 | last60d | 2026-07-12 | 0 | 0 | 8 | 0 | 0 | 0 |
@@ -55,10 +55,10 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 | 360d | 2025-09-15 | 30 | 47 | 12 | 7 | 9 | 115 |
 | last720d | 2024-09-20 | 30 | 47 | 12 | 7 | 9 | 115 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [depsguard-aarch64-apple-darwin.tar.gz](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-aarch64-apple-darwin.tar.gz) | 241.8 KiB | `native/darwin/arm64` |
 | [depsguard-aarch64-apple-darwin.tar.gz.sha256](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-aarch64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/arm64` |
 | [depsguard-aarch64-unknown-linux-gnu.tar.gz](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-aarch64-unknown-linux-gnu.tar.gz) | 261.4 KiB | `native/linux/arm64/glibc` |
@@ -88,21 +88,21 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 | [depsguard_0.1.40_arm64.deb](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_arm64.deb) | 234.0 KiB | `runtime/deb/arm64` |
 | [depsguard_0.1.40_arm64.deb.sha256](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_arm64.deb.sha256) | 93 B | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **3** distros on [repology.org](https://repology.org/project/depsguard). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/depsguard) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `0.1.40` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `depsguard` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+depsguard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `depsguard` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/depsguard.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/depsguard.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:09:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:09:15Z._
