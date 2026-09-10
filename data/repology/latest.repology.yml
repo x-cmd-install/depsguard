@@ -1,0 +1,26 @@
+- repo: aur
+  srcname: depsguard-bin
+  binname: depsguard-bin
+  visiblename: depsguard-bin
+  version: 0.1.33
+  origversion: 0.1.33-1
+  status: outdated
+  summary: Harden your package manager configs against supply chain attacks.
+  maintainers:
+    - mmoya@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: depsguard
+  visiblename: depsguard
+  version: 0.1.40
+  origversion: null
+  status: newest
+  summary: Harden package manager configs against supply chain attacks
+- repo: homebrew
+  srcname: depsguard
+  visiblename: depsguard
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Harden package manager configs against supply chain attacks
