@@ -38,7 +38,7 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 382 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 7
+- **Stars**: 383 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 2 | 10 | 9 | 1 | 4 | 11 |
-| last180d | 2026-03-17 | 30 | 47 | 12 | 7 | 9 | 115 |
-| 360d | 2025-09-18 | 30 | 47 | 12 | 7 | 9 | 115 |
-| last720d | 2024-09-23 | 30 | 47 | 12 | 7 | 9 | 115 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 8 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 2 | 8 | 9 | 1 | 4 | 11 |
+| last180d | 2026-03-18 | 30 | 47 | 12 | 7 | 9 | 115 |
+| 360d | 2025-09-19 | 30 | 47 | 12 | 7 | 9 | 115 |
+| last720d | 2024-09-24 | 30 | 47 | 12 | 7 | 9 | 115 |
 
 ## Release assets
 
@@ -88,14 +88,6 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 | [depsguard_0.1.40_arm64.deb](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_arm64.deb) | 234.0 KiB | `runtime/deb/arm64` |
 | [depsguard_0.1.40_arm64.deb.sha256](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_arm64.deb.sha256) | 93 B | `other` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/depsguard). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.1.40` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `depsguard` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +97,4 @@ Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:28:42Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:50:42Z._
