@@ -38,22 +38,22 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 383 · **Forks**: 18 · **Open issues**: 16 · **Contributors**: 7
+- **Stars**: 383 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 47 · **Open PRs**: 12 · **Closed issues**: 7 · **Open issues**: 9 · **Commits**: 115
+- **Releases**: 30 · **Merged PRs**: 47 · **Open PRs**: 13 · **Closed issues**: 7 · **Open issues**: 9 · **Commits**: 115
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 2 | 8 | 9 | 1 | 4 | 11 |
-| last180d | 2026-03-18 | 30 | 47 | 12 | 7 | 9 | 115 |
-| 360d | 2025-09-19 | 30 | 47 | 12 | 7 | 9 | 115 |
-| last720d | 2024-09-24 | 30 | 47 | 12 | 7 | 9 | 115 |
+| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 8 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 2 | 6 | 10 | 1 | 2 | 11 |
+| last180d | 2026-03-19 | 30 | 47 | 13 | 7 | 9 | 115 |
+| 360d | 2025-09-20 | 30 | 47 | 13 | 7 | 9 | 115 |
+| last720d | 2024-09-25 | 30 | 47 | 13 | 7 | 9 | 115 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:50:42Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:51:19Z._
