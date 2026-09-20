@@ -4,7 +4,7 @@
 
 Harden your package manager configs against supply chain attacks.
 
-![depsguard](https://repo.x-cmd.io/depsguard.svg)
+[![x-cmd/install — depsguard Code Quality Monitoring Repo Card](https://repo.x-cmd.io/depsguard.svg)](https://x-cmd.com/install/depsguard)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 384 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 7
+- **Stars**: 383 · **Forks**: 19 · **Open issues**: 16 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 2 | 4 | 10 | 1 | 2 | 11 |
-| last180d | 2026-03-22 | 30 | 47 | 13 | 7 | 9 | 115 |
-| 360d | 2025-09-23 | 30 | 47 | 13 | 7 | 9 | 115 |
-| last720d | 2024-09-28 | 30 | 47 | 13 | 7 | 9 | 115 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 2 | 4 | 10 | 1 | 2 | 11 |
+| last180d | 2026-03-24 | 30 | 47 | 13 | 7 | 9 | 115 |
+| 360d | 2025-09-25 | 30 | 47 | 13 | 7 | 9 | 115 |
+| last720d | 2024-09-30 | 30 | 47 | 13 | 7 | 9 | 115 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:40:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:36:23Z._
