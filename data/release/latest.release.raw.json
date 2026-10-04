@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 279014,
       "digest": "sha256:4bbcc4c56380cc977958b62d4bace0615116d6d653af721de9c804a93639ce7b",
-      "download_count": 101,
+      "download_count": 104,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-linux-amd64-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 325458,
       "digest": "sha256:c0e0616ec08049f8cc29f2f7bf3644985474e052e2c2f687d67c9b466c264820",
-      "download_count": 52,
+      "download_count": 54,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-linux-amd64-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 267719,
       "digest": "sha256:c411c536a9cdfa4dc2c133682cc9867f0e30f716e1f1d23f78b9689027d43cad",
-      "download_count": 121,
+      "download_count": 123,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-linux-arm64-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 259092,
       "digest": "sha256:b7970bc578c44a9f07ecb059b519f45ebebd982fc7e654f9aad2ccc06123d724",
-      "download_count": 46,
+      "download_count": 48,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-macos-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 247589,
       "digest": "sha256:9e295bea4f069aac4c68c532c3f72f2e54aa101aea3916e67c1ea79026843e86",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-macos-arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 204463,
       "digest": "sha256:c607458bfa4e4ebc3ac3eb1ebd34e9269c0eb5d485033befeda2c0a3c61476e8",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-windows-amd64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:1398206ddb4f5df361a06e9d173afe6bfa6815ce54873d6b31da061fdfbb1390",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-windows-amd64.zip.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 204463,
       "digest": "sha256:c607458bfa4e4ebc3ac3eb1ebd34e9269c0eb5d485033befeda2c0a3c61476e8",
-      "download_count": 263,
+      "download_count": 266,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-x86_64-pc-windows-msvc.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:1398206ddb4f5df361a06e9d173afe6bfa6815ce54873d6b31da061fdfbb1390",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard-x86_64-pc-windows-msvc.zip.sha256"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:9312210712bdb395f77f162efc8826bb811c28c33b27ed60dc0eac86f6534c99",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-30T18:42:36Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_amd64.deb.sha256"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:e2bdde20000f5f3fb69df55f1f22670f102685c3f0cdce52e7b8b73088837d08",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-06-30T18:42:35Z",
       "updated_at": "2026-06-30T18:42:36Z",
       "browser_download_url": "https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_arm64.deb.sha256"
