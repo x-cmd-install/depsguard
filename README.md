@@ -48,12 +48,12 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-19 | 7 | 20 | 11 | 6 | 8 | 53 |
-| 360d | 2025-11-20 | 30 | 47 | 11 | 7 | 10 | 115 |
-| last720d | 2024-11-25 | 30 | 47 | 11 | 7 | 10 | 115 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-18 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-20 | 7 | 18 | 11 | 6 | 8 | 53 |
+| 360d | 2025-11-21 | 30 | 47 | 11 | 7 | 10 | 115 |
+| last720d | 2024-11-26 | 30 | 47 | 11 | 7 | 10 | 115 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:24:44Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T09:04:48Z._
