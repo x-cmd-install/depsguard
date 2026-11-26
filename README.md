@@ -48,12 +48,12 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-29 | 7 | 18 | 11 | 6 | 8 | 52 |
-| 360d | 2025-11-30 | 30 | 47 | 11 | 7 | 10 | 115 |
-| last720d | 2024-12-05 | 30 | 47 | 11 | 7 | 10 | 115 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-30 | 7 | 18 | 11 | 6 | 8 | 52 |
+| 360d | 2025-12-01 | 30 | 47 | 11 | 7 | 10 | 115 |
+| last720d | 2024-12-06 | 30 | 47 | 11 | 7 | 10 | 115 |
 
 ## Release assets
 
@@ -88,6 +88,14 @@ Total: **13,597** lines of code across **43** files in the top 5 languages.
 | [depsguard_0.1.40_arm64.deb](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_arm64.deb) | 234.0 KiB | `runtime/deb/arm64` |
 | [depsguard_0.1.40_arm64.deb.sha256](https://github.com/arnica/depsguard/releases/download/v0.1.40/depsguard_0.1.40_arm64.deb.sha256) | 93 B | `other` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/depsguard). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.1.40` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `depsguard` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +105,4 @@ Install metadata for depsguard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:20:00Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:33:33Z._
